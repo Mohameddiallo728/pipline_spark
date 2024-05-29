@@ -31,3 +31,4 @@ build/
 /target
 .env
 /data
+/__pycache__
